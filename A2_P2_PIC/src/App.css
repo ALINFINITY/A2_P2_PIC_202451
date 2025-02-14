@@ -1,7 +1,64 @@
 #root {
-  max-width: 1280px;
+  width: 100%;
   margin: 0 auto;
   padding: 2rem;
   text-align: center;
 }
 
+.my-nav{
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  gap: 10px;
+  position: sticky;
+  top: 0;
+  padding: 10px 0;
+  backdrop-filter: blur(4px);  
+  z-index: 100;
+}
+
+.my-nav a{
+  padding: 10px 20px;
+  background-color: white;
+  border: 2px solid black;
+  border-radius: 30px;
+  color: black;
+}
+
+.head{
+  color:white;
+  font-size: medium;
+  background-color: #eb0d2a;
+  font-weight: bold;
+}
+
+.admmin-console{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.title-edu{
+  text-shadow: -2px 2px 2px black;
+}
+
+.text_content{
+  width: 100%;
+  word-wrap: break-word;
+  flex-wrap: wrap;
+}
+
+.user_information{
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+}
+
+.user_information p{
+  text-shadow: -2px 2px 2px black;
+}
+
+.s{
+  color: #eb0d2a;
+}
