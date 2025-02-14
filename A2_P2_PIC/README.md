@@ -63,27 +63,27 @@ EduConnect esta desarrollado con las mas avanzadas tecnologías de desarrollo we
 
 * Login
 
-- Esta es la página principal para acceder a la plataforma. Aquí se validan las credenciales para acceder a la plataforma.
+-Esta es la página principal para acceder a la plataforma. Aquí se validan las credenciales para acceder a la plataforma.
 
 * Register
 
-- Esta página te permite crear una cuenta en la plataforma, una vez creada tu cuenta podrás ingresar a la plataforma
+-Esta página te permite crear una cuenta en la plataforma, una vez creada tu cuenta podrás ingresar a la plataforma
 
 * Inicio
 
-- Es la página principal de la plataforma, en esta sección se muestran las noticias mas recientes de EduConnect.
+-Es la página principal de la plataforma, en esta sección se muestran las noticias mas recientes de EduConnect.
 
 * Acerca de
 
-- En esta página se detalla la información de los desarrolladores de la plataforma.
+-En esta página se detalla la información de los desarrolladores de la plataforma.
 
 * Publicaciones
 
-- En esta página se pueden crear publicaciones o comentar publicaciones de otros usuarios.
+-En esta página se pueden crear publicaciones o comentar publicaciones de otros usuarios.
 
 * Administración
 
-- Página solo accesible para usuarios Administradores, en esta página se pueden monitorizar y eliminar usuarios de la plataforma.
+-Página solo accesible para usuarios Administradores, en esta página se pueden monitorizar y eliminar usuarios de la plataforma.
 
 # Licencia del proyecto
 
