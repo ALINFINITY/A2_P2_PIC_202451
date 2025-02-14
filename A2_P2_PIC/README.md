@@ -39,9 +39,9 @@ EduConnect esta desarrollado con las mas avanzadas tecnologías de desarrollo we
 
 * EduConnect cuenta con un sistema de asignación de ID's basado en números random para asegurar la consistencia de la información en: usuarios, publicaciones y comentarios.
 
-* La creación de usuarios administradores requiere de claves de autorización a excepción de los usuarios con roles de acceso común.
+* La creación de usuarios administradores requiere de claves de autorización.
 
-* Los usuarios administradores pueden eliminar su cuenta, si el usuario administrador elimina su cuenta la se cierra la sesión.
+* Los usuarios administradores pueden eliminar su cuenta, si el usuario administrador elimina su cuenta se cierra la sesión.
 
 * En EduConnect la administración de la plataforma es muy importante, motivo por el cual la plataforma cuenta con roles de Administrador y Roles de Acceso común.
 
@@ -53,11 +53,13 @@ EduConnect esta desarrollado con las mas avanzadas tecnologías de desarrollo we
 
 * EduConnect cuenta con un menú de navegación muy intuitivo para facilitar la navegación de los usuarios a través de la plataforma. El menú de navegación incorpora elementos como: información de usuario actual y el botón de cerrar sesión.
 
-* EduConnect almacena credenciales, publicaciones con sus correspondientes comentarios e indicadores de autenticación en el LocalStorage del navegador, con la finalidad de asegurar la persistencia de los datos.
+* EduConnect almacena: credenciales, publicaciones, comentarios e indicadores de autenticación en el LocalStorage del navegador, con la finalidad de asegurar la persistencia de los datos.
 
-* EduConnect cuenta con un sistema de autenticación dinámico, recopilamos información como: el usuario actual, validez de credenciales y rol del usuario actual para mantener tu sesión activa.
+* EduConnect cuenta con un sistema de autenticación dinámico, recopilamos información como: el usuario actual, validez de las credenciales y rol del usuario actual, para mantener tu sesión activa.
 
 * La carpeta public del proyecto contiene todos los recursos estáticos utilizados en la plataforma
+
+* El estilo de EduConnect sigue el estándar de diseño utilizados en Material UI.
 
 # Páginas de EduConnect
 
