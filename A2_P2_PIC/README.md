@@ -45,9 +45,9 @@ EduConnect esta desarrollado con las mas avanzadas tecnologías de desarrollo we
 
 * En EduConnect la administración de la plataforma es muy importante, motivo por el cual la plataforma cuenta con roles de Administrador y Roles de Acceso común.
 
-- Rol de Administrador: El administrador puede: Publicar, comentar, eliminar usuarios, eliminar publicaciones y eliminar comentarios. Los usuarios administradores son creados con claves de autorización generadas por el administrador principal de la plataforma.
+-Rol de Administrador: El administrador puede: Publicar, comentar, eliminar usuarios, eliminar publicaciones y eliminar comentarios. Los usuarios administradores son creados con claves de autorización generadas por el administrador principal de la plataforma.
 
-- Roles de acceso común: Son todos los usuarios como profesores, estudiantes, etc. Los usuarios con este rol pueden crear o eliminar sus propias publicaciones o comentarios.
+-Roles de acceso común: Son todos los usuarios como profesores, estudiantes, etc. Los usuarios con este rol pueden crear o eliminar sus propias publicaciones o comentarios.
 
 * En EduConnect nos aseguramos de que la información sea consistente, por ello las entradas de todos los formularios de la plataforma son verificados antes de almacenar cualquier información, ademas, los comentarios o publicaciones que se encuentren publicados en la plataforma solo pueden ser eliminados por el usuario que los creo o por un usuario administrador.
 
@@ -59,7 +59,7 @@ EduConnect esta desarrollado con las mas avanzadas tecnologías de desarrollo we
 
 * La carpeta public del proyecto contiene todos los recursos estáticos utilizados en la plataforma
 
-* El estilo de EduConnect sigue el estándar de diseño utilizados en Material UI.
+* El estilo de EduConnect sigue el estándar de diseño utilizado en Material UI.
 
 # Páginas de EduConnect
 
